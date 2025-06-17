@@ -6,7 +6,11 @@ ul,
 li {
     margin: 15px solid black;
     padding: 0;
-    
+
+}
+
+body {
+    background-color: black;
 }
 
 header {
@@ -14,7 +18,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 1px 5%;
-    background-color:#8B0000;
+    background-color: #800000;
     position: relative;
     z-index: 2;
     border: 1px solid black;
@@ -51,25 +55,28 @@ nav a {
 
 
 
-#Habilidades{
+#Habilidades {
     border: 1px solid red;
-    .shrine{
-display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
-    width: 700px;
-    margin: 20px;
-    padding: 20px;
-   
+
+    .shrine {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        width: 700px;
+        margin: 20px;
+        padding: 20px;
+
     }
 }
+
 #santuario img {
     border: 1px solid black;
     border-radius: 20px;
     align-items: center;
 }
+
 .box {
     display: flex;
     flex-direction: column;
@@ -79,8 +86,9 @@ display: flex;
     width: 700px;
     margin: 20px;
     padding: 20px;
-  
+
 }
+
 #santuario {
     display: flex;
     align-items: center;
@@ -88,36 +96,111 @@ display: flex;
     border-radius: 20px;
     background-color: #A9A9A9;
 }
-#dismantle img{
+
+#dismantle img {
     border: 1px solid black;
     border-radius: 10px;
 
 }
-#dismantle{
+
+#dismantle {
     display: flex;
     border: 2px solid black;
     border-radius: 10px;
     align-items: center;
+    background-color: #A9A9A9;
 }
-#dismantle p{
+
+#dismantle p {
     align-items: center;
 }
 
-#Receptaculos{
+.variantesdismantelar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0px;
+    width: 700px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#dismantelvariant img {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#dismantlevariant {
+    display: flex;
+    border: 2px solid black;
+    border-radius: 10px;
+    align-items: center;
+    background-color: #A9A9A9;
+}
+
+.clivar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: 700px;
+    margin: 20px;
+    padding: 20px;
+}
+#cleave img{
+    border: 2px solid black;
+    border-radius: 10px;
+    
+}
+#cleave {
+    display: flex;
+    border: 2px solid black;
+    border-radius: 10px;
+    align-items: center;
+    background-color: #A9A9A9;
+}
+.clivarvariant{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: 700px;
+    margin: 10px;
+    padding: 10px;
+}
+#cleavevariant img{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#cleavevariant{
+    display: flex;
+    border: 2px solid black;
+    border-radius: 10px;
+    align-items: center;
+    background-color: #A9A9A9;
+}
+#Receptaculos {
     border: 1px solid red;
 }
-#Fim{
+
+#Fim {
     border: 1px solid red;
 }
-footer{
+
+footer {
     border: 1px solid black;
     align-items: center;
     height: 150px;
     padding: 1rem 5%;
     display: flex;
     justify-content: space-between;
-} 
-footer img{
+    background-color: grey;
+}
+
+footer img {
     width: 45px;
     margin-right: 1rem;
 }
