@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Ryomen Sukuna</title>
+</head>
+
+<body>
+    <header id="cabecalho">
+        <h1>Ryomen Sukuna</h1>
+        <h2>O Rei das Maldições</h2>
+        <nav>
+            <ul>
+
+                <li><a href="#Historia">História</a></li>
+                <li><a href="#Habilidades">Habilidades</a></li>
+                <li><a href="#Receptaculos">Receptáculos</a></li>
+                <li><a href="#Fim">Morte</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+      
+        <section id="História">
+            <p>Sukuna é uma figura lendária, cuja existência remonta a cerca de 1000 anos atrás, durante a Era de Ouro
+                da Feitiçaria. Conhecido por sua aparência aterradora - com quatro olhos e quatro braços - e sua
+                natureza impiedosa, ele era um demônio que não poupava nem mulheres, nem crianças em seus atos de
+                crueldade.
+                <br>
+                Sua força era tão avassaladora que apenas um grupo de poderosos feiticeiros, trabalhando juntos,
+                conseguiu derrotá-lo. No entanto, incapazes de destruir seu corpo, eles optaram por selar seu poder em
+                seus 20 dedos, transformando-os em objetos amaldiçoados.
+            </p>
+        </section>
+
+        <section id="Habilidades">
+            <h1>Habilidades</h1>
+            <img src="./img/santuario.jpg" alt="Santuario" width="150">
+            <section>
+                <h3> Santuário</h3>
+                <p>Santuário (御み廚づ子し Mizushi) é a técnica inata de Sukuna, que lhe permite desferir golpes invisíveis, à
+                    distância ou por contato físico, para abater seus inimigos. Também o capacita a disparar uma flecha
+                    de
+                    fogo do inferno sob certas condições.</p>
+            </section>
+            <br>
+            <section id="dismantle">
+                <img src="./img/dismantelar.jpg" alt="Desmantelar" width="200">
+                <h4>Dismantelar</h4>
+                <p> O ataque cortante padrão de Sukuna à distância que pode ser usado contra espíritos amaldiçoados e
+                    feiticeiros com grande efetividade</p>
+
+                <br>
+                <section id="dismantlevariant"">
+                    <h5>Variante do Dismantelar</h5>
+                    <br>
+                    <img src=" ./img/cortemundial.jpeg" alt="Corte Mundial" width="250">
+                    <h4>O Corte que Corta o Mundo</h4>
+                    <p>É uma técnica de ataque que permite a Sukuna cortar o espaço e, consequentemente, o que estiver
+                        dentro
+                        desse espaço, ignorando limitações como a distância e a durabilidade</p>
+                    <h5>Cantos para usar o Corte Mundial</h5>
+                    <img src="./img/chantsworldslash.jpg" alt="Escamas de Dragão, Rebelião, Par de Meteoros"
+                        width="250">
+                </section>
+            </section>
+            <section id="cleave">
+                <img src="./img/cleave.jpeg" alt="Clivar" width="200">
+                <h4>Clivar</h4>
+                <p>Um ataque cortante que se ajusta dependendo da resistência e nível de energia amaldiçoada do alvo
+                    para
+                    cortá-lo de uma vez só.</p>
+                <section id="cleavevariant">
+                    <h5>Variantes do Clivar</h5>
+
+                    <img src="./img/spiderweb.jpg" alt="Clivar:Teia de Aranha" width="250">
+                    <h4>Teia de Aranha</h4>
+                    <p>Sukuna pode utilizar a técnica Partir na forma de uma teia de aranha ao tocar no chão. Como uma
+                        variação de Partir, Teia de Aranha se ajusta à resistência do ambiente, desmoronando o chão em
+                        um
+                        corte só.</p>
+                </section>
+            </section>
+
+            <section id="fuuga">
+                <img src="./img/kaminofuga.jpeg" alt="Chama Divina" width="250">
+                <h4>Chama Divina</h4>
+                <p> Sukuna pode criar e manipular fogo para ataques de longa distância ao entoar "Abra" (開フーガ
+                    Fūga) e formar uma flecha. A técnica só pode ser usada depois que ele ativar Desmantelar e
+                    Partir.O poder de fogo das chamas é superior às de Jogo, uma maldição de classe especial não
+                    registrada cuja característica definidora envolve poderes flamejantes extremamente destrutivos.</p>
+
+            </section>
+
+            <section id="expansaodedominio">
+                <img src="./img/santuariomalevolente.jpeg" alt="Santuário Malevolente" width="250">
+                <h4>Expansão de Domínio: Santuário Malevolente</h4>
+                <p>O Santuário Malevolente (伏ふく魔ま御み廚づ子し Fukuma Mizushi) é uma expansão de domínio que cria um
+                    santuário budista decorado com caveiras. Tudo dentro do domínio é cortado implacavelmente com
+                    Desmantelar ou Clivar, dependendo do nível de energia amaldiçoada. Santuário Malévolo tem uma
+                    característica única; ele não cria um espaço separado ao fechar uma barreira, e em vez disso é
+                    manifestado no espaço ao redor. Ao permitir uma rota de fuga, um voto vinculativo é formado que
+                    vastamente aumenta a área efetiva do acerto garantido com um raio máximo de quase 200 metros.</p>
+
+                <section id="VarianteDominio">
+
+                    <h5>Variante do Domínio</h5>
+                    <img src="./img/santuariodeficiente.jpeg" alt="Sanuário Incompleto" width="250">
+                    <h4>Santuário Incompleto</h4>
+                    <p>Ao mudar o sinal de mão de sua Expansão de Domínio e aplicar técnicas amaldiçoadas e técnicas de
+                        barreira por meio de uma parte de seu cérebro não danificada pelo Vazio Ilimitado, então
+                        incluindo votos vinculativos improvisados com elementos imprecisos, Sukuna foi capaz de ativar
+                        Santuário Malevolente sem diminuir o alcance, dificuldade ou produção por 99 segundos.
+                        Sukuna pode remover o limite de tempo encolhendo o alcance de seu domínio para o tamanho de uma
+                        bola de esportes.</p>
+                </section>
+            </section>
+        </section>
+
+        <section id="Receptaculos">
+            <H1>Receptáculos</H1>
+            <p>Fora seu corpo da Era Heian, Sukuna teve dois receptáculos, veja seu corpo original e seus receptáculos a
+                seguir:</p>
+
+            <section id="sukunaoriginal">
+                <h2>Corpo Original</h2>
+                <img src="./img/trueformsukumba.jpeg" alt="Sukuna em sua forma Original" width="250">
+                <p>Sukuna é um homem ato e musculoso com quatro braços, quatro olhos e uma grande boca no estômago. Ele
+                    tem cabelos curtos rosa-escuro e olhos vermelhos, com seus dois olhos direitos em um ângulo
+                    diferente e localizados em uma estrutura branca de carne parecida com placa no lado direito do
+                    rosto. Seu corpo também é coberto de tatuagens, que se manifestam em seu receptáculo quando ele está
+                    em controle e estão naturalmente presentes em sua forma verdadeira. As tatuagens são linhas pretas
+                    em seus pulsos, braços superiores, corpo superior, abdômen e rosto. Pontos negros também estão
+                    tatuados em cada um dos ombros. Quando as tatuagens se manifestam em um receptáculo com dois braços,
+                    as linhas circulando os braços superiores e pulsos são duplicadas e círculos se formam ao redor dos
+                    pontos negros nos ombros. A aparência monstruosa de Sukuna fez muitos o descreverem como um demônio
+                    com quatro braços e dois rostos.</p>
+            </section>
+            <section id="itadori">
+                <h2>Yuji Itadori</h2>]
+                <img src="./img/itadoriyuji.jpeg" alt="Yuji Itadori e Sukuna" width="250">
+                <p>Yuji é um jovem de altura mediana e parece ter uma constituição fina quando veste roupas largas, mas
+                    na verdade tem um físico magro e musculoso. Ele também tem olhos castanhos claros relativamente
+                    grandes e olho rosa espetado penteado em um corte inferior. Quando se
+                    torna o receptáculo de Sukuna após comer seu dedo, ele ganha um segundo par de olhos que só abrem
+                    quando Sukuna controla o corpo, junto com suas marcas.</p>
+            </section>
+
+            <section id="megumi">
+                <h2>Megumi Fushiguro</h2>
+                <img src="img/fushiguro.jpg" alt="Megumi Fushiguro possuído por Sukuna" width="250">
+                <p>Megumi é um homem jovem relativamente alto e magro com pele clara e olhos verdes que inclinam para
+                    cima para denotar sua personalidade dura e fria. Ele tem
+                    cabelo preto com espinhos longos que disparam para todas as direções em volta de sua cabeça,
+                    parecendo um ouriço-do-mar. Quando conheceu Megumi, Gojo notou que ele
+                    parecia com seu pai Toji Fushiguro, e Megumi tem características faciais semelhantes e os mesmos
+                    olhos verdes que seu pai falecido.
+                </p>
+            </section>
+        </section>
+        <section id="Fim">
+            <h1>A Morte de Ryomen Sukuna</h1>
+            <img src="img/poukuna.jpeg" alt="Sukuna em sua morte" width="250">
+            <p>Ryomen Sukuna, o Rei das Maldições, encontra seu fim após uma batalha brutal contra Yuuji Itadori e seus
+                aliados. Após derrotar até mesmo Satoru Gojo, Sukuna parece invencível. No entanto, Yuuji, impulsionado
+                pela dor, pela raiva e pelo desejo de justiça, resiste até o fim. Com a ajuda da resistência da alma de
+                Megumi Fushiguro, ainda viva dentro do corpo possuído por Sukuna, Yuuji desfere o golpe final. Sukuna
+                não é apenas vencido — sua alma é destruída. Assim, a maldição mais temida da história é enfim apagada
+                do mundo.</p>
+        </section>
+    </main>
+
+    <footer>
+        <a href=""><img src="./img/whatsapp.png" alt="" width="30"></a>
+        <a href=""><img src="./img/discord_icon.png" alt="" width="30"></a>
+        <a href=""><img src="./img/insta.png" alt="" width="30"></a>
+        <a href="https://github.com/LoliComunista"><img src="img/github_icon.png" alt="" width="30"></a>
+        <p> &copy; 2025 Ryomen Sukuna</p>
+    </footer>
+
+
+</body>
+
+</html>
