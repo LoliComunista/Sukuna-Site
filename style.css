@@ -1,0 +1,123 @@
+body,
+h1,
+h2,
+p,
+ul,
+li {
+    margin: 15px solid black;
+    padding: 0;
+    
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1px 5%;
+    background-color:#8B0000;
+    position: relative;
+    z-index: 2;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+header h1 h2 {
+    font-size: 2rem;
+    position: absolute;
+}
+
+nav ul {
+    list-style: none;
+    display: contents;
+    gap: 1rem;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    padding: 15PX;
+    border-radius: 15px 0px;
+}
+
+#Historia {
+    position: relative;
+    margin: 50px;
+    border: 2px solid black;
+    padding: 10PX;
+    border-radius: 10px;
+    background-color: #A9A9A9;
+
+}
+
+
+
+#Habilidades{
+    border: 1px solid red;
+    .shrine{
+display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: 700px;
+    margin: 20px;
+    padding: 20px;
+   
+    }
+}
+#santuario img {
+    border: 1px solid black;
+    border-radius: 20px;
+    align-items: center;
+}
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: 700px;
+    margin: 20px;
+    padding: 20px;
+  
+}
+#santuario {
+    display: flex;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: #A9A9A9;
+}
+#dismantle img{
+    border: 1px solid black;
+    border-radius: 10px;
+
+}
+#dismantle{
+    display: flex;
+    border: 2px solid black;
+    border-radius: 10px;
+    align-items: center;
+}
+#dismantle p{
+    align-items: center;
+}
+
+#Receptaculos{
+    border: 1px solid red;
+}
+#Fim{
+    border: 1px solid red;
+}
+footer{
+    border: 1px solid black;
+    align-items: center;
+    height: 150px;
+    padding: 1rem 5%;
+    display: flex;
+    justify-content: space-between;
+} 
+footer img{
+    width: 45px;
+    margin-right: 1rem;
+}
